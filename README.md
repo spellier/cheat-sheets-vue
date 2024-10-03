@@ -4,6 +4,8 @@
 
 * [Basics](BASICS.md)
 
+==> Décomposition de la formation Grafikart ?
+
 ## Tips 
 
 
@@ -15,7 +17,7 @@
 ## Pour aller plus loin
 
 * [Doc officielle](https://fr.vuejs.org/)
-* [Formation Graphikart](https://grafikart.fr/formations/vuejs)
+* [Formation Grafikart](https://grafikart.fr/formations/vuejs)
 * [Décomposer un formulaire](https://tallpad.com/series/vuejs-misc/lessons/cleaner-form-fields-in-vuejs)
   
 * [State of Javascript](https://stateofjs.com/en-US)
