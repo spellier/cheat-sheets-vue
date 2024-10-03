@@ -21,6 +21,10 @@
 * [State of Javascript](https://stateofjs.com/en-US)
 * [Most Demanded Frontend FW](https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks/)
 
+* TODO : A regarder
+* * [Composable Form](https://tallpad.com/series/vuejs-misc/lessons/streamline-vue-forms-with-this-useform-composable)
+  * [Watch multiples value at one](https://tallpad.com/series/vuejs-misc/lessons/vue-watch-multiple-values-at-once)
+
 ## Principes généraux
 
 Il est important de respecter un certain nombre de principes pour développer des applications de qualité, évolutives et maintenables. Voici quelques principes clés à respecter :
