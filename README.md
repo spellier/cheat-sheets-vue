@@ -1,18 +1,29 @@
-# Cheat Sheets Angular
+# Cheat Sheets Vue
 
 ## Bases
 
 * [Basics](BASICS.md)
+* [La réactivité](REACTIVITY.md)
+* [Transmission de données](HOW_TO_PASS_DATA.md)
+* [Composables](COMPOSABLES.md)
+* [Gestion des formulaires](FORMS.md)
+* [Routing](ROUTING.md)
+* [Slots](tips/SLOTS.md)
+* [Gestion du CSS](CSS.md)
+* [Tests](TEST.md)
 
-==> Décomposition de la formation Grafikart ?
 
 ## Tips 
+
+* [TypeScript avec Vue](TYPESCRIPT.md)
+* [NUXT ?]()
 
 
 ## Librairies externes
 
 * TODO VeeValidate https://vee-validate.logaretm.com/v3/ ?
 * TODO Pinia ?
+* TODO Router ?
 
 ## Pour aller plus loin
 
