@@ -16,6 +16,7 @@
 ## Tips 
 
 * [TypeScript avec Vue](TYPESCRIPT.md)
+* [Manipulation des dates](tips/DATES.md)
 * [NUXT ?]()
 
 
