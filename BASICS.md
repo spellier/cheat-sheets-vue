@@ -11,7 +11,7 @@
     * [String interpolation](#string-interpolation)
     * [Binding](#binding)
   * [Les hook du cycle de vie](#les-hook-du-cycle-de-vie)
-    * [*Pour aller plus loin*](#pour-aller-plus-loin)
+  * [Pour aller plus loin](#pour-aller-plus-loin)
 <!-- TOC -->
 
 ## package.json
@@ -61,9 +61,6 @@ La string interpolation avec les doubles accolades  `{{ }}`  permet d'insérer l
 
 ### Binding
 
-> *TODO*
-> props et emits
-
 | Propriété | Définition                                                                                                                 | Exemple                         | Binding                           | 
 |-----------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------------------------|
 | Props     | Propriété d'entrée sur un composant Vue. Il permet à un parent de passer une valeur à un enfant via une propriété liée     | `defineProps(['title'])`        | `:myProp="myData"`                |
@@ -93,7 +90,7 @@ La string interpolation avec les doubles accolades  `{{ }}`  permet d'insérer l
 
 ---
 
-### *Pour aller plus loin*
+## Pour aller plus loin
 
 - [Vue - Doc officielle](https://fr.vuejs.org/guide/essentials/template-syntax.html)
 - [Grafikart - Apprendre Vue.js](https://grafikart.fr/tutoriels/syntax-vuejs-2226#autoplay)
